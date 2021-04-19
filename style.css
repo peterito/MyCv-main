@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin-left: 20px;
+    box-sizing: border-box;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+address{
+    text-align: center;
+    margin-top: 10px;
+    line-height: 25px;
+}
+span{
+    font-weight: bolder;
+}
+
+.main-body{
+    margin-top: 60px;
+    max-width: 700px;
+    height: 100px;
+    margin-left: 150px;
+
+}
+.about h2{
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+.about p{
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.work-experience h2{
+        text-decoration: underline;
+        margin-bottom: 10px;
+}
+.work{
+    line-height: 25px;
+    position: relative;
+}
+.date p{
+    position: absolute;
+    float: right;
+}
